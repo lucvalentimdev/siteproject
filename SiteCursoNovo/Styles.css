@@ -1,0 +1,16 @@
+/*Tipo básico de estrutura com CSS (Classe inicia com pont .NomeClasse para uso geral) (ID se inicia com # para formatação especifica)--> */
+
+.CorClasse 
+{
+    background-color: azure;
+}
+
+.CorFonte
+{
+    color: pink;
+}
+
+#CorTitulos
+{
+    color: blueviolet;
+}
