@@ -1,16 +1,29 @@
 /*Tipo básico de estrutura com CSS (Classe inicia com pont .NomeClasse para uso geral) (ID se inicia com # para formatação especifica)--> */
+#CorTitulos
+{
+   color: brown;
+}
 
-.CorClasse 
+.BackGroundGeral
 {
     background-color: azure;
+    background-image: url("img/fundo.png");
 }
 
 .CorFonte
 {
-    color: pink;
+    color: chocolate;
 }
 
-#CorTitulos
+#CorMenu
 {
     color: blueviolet;
+}
+
+.Menu
+{
+   color: brown;
+   font-family:  Arial, Helvetica, sans-serif;
+   font-style: normal;
+   font-size: x-large;
 }
