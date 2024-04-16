@@ -27,3 +27,15 @@
    font-size: x-large;
    text-align: center;
 }
+
+.Destaques
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: blueviolet;
+}
+
+.TextoEspecial
+{
+  align-self: center; 
+  color: palevioletred; 
+}
